@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @azimiraviz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via linkedin www.linkedin.com/in/azimiraviz-mr
 
 <!---
